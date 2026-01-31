@@ -1,2 +1,2 @@
-# The-Dice-Game
+# The Dice Game
 A Simple Roll Dice Game
